@@ -3,8 +3,7 @@
 Website portfolio pribadi untuk menampilkan informasi tentang diri saya, skill, pengalaman, dan proyek-proyek yang telah saya kerjakan. Cocok digunakan sebagai profil profesional online untuk kebutuhan personal branding, melamar kerja, atau freelance.
 
 ## 🚀 Demo
-[🔗 Lihat Live Website](https://your-portfolio-link.vercel.app/)  
-*(Ganti link di atas dengan URL portfolio kamu jika sudah di-deploy)*
+[🔗 Lihat Live Website](https://kev-dev.my.id/)  
 
 ---
 
