@@ -175,9 +175,9 @@
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Laravel</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 90%"></div>
+                        <div class="skill-bar" style="width: 60%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Expert - 90%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Intermediate - 60%</p>
                     <p class="text-gray-400 text-sm">PHP framework for web artisans</p>
                 </div>
 
@@ -189,9 +189,9 @@
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Flutter</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 80%"></div>
+                        <div class="skill-bar" style="width: 70%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Advanced - 80%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Advanced - 70%</p>
                     <p class="text-gray-400 text-sm">Cross-platform mobile development</p>
                 </div>
 
@@ -203,9 +203,9 @@
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Tailwind CSS</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 85%"></div>
+                        <div class="skill-bar" style="width: 40%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Advanced - 85%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Intermediate - 40%</p>
                     <p class="text-gray-400 text-sm">Utility-first CSS framework</p>
                 </div>
 
@@ -217,9 +217,9 @@
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">PHP</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 88%"></div>
+                        <div class="skill-bar" style="width: 70%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Advanced - 88%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Intermediate - 70%</p>
                     <p class="text-gray-400 text-sm">Server-side scripting language</p>
                 </div>
 
@@ -231,9 +231,9 @@
                     </div>
                     <h4 class="text-xl font-bold text-white mb-3">Figma</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 70%"></div>
+                        <div class="skill-bar" style="width: 90%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Intermediate - 70%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Expert - 90%</p>
                     <p class="text-gray-400 text-sm">UI/UX design and prototyping</p>
                 </div>
 
@@ -246,9 +246,9 @@
                     
                     <h4 class="text-xl font-bold text-white mb-3">JavaScript</h4>
                     <div class="skill-progress mb-3">
-                        <div class="skill-bar" style="width: 75%"></div>
+                        <div class="skill-bar" style="width: 40%"></div>
                     </div>
-                    <p class="text-blue-300 font-semibold mb-2">Intermediate - 75%</p>
+                    <p class="text-blue-300 font-semibold mb-2">Intermediate  - 40%</p>
                     <p class="text-gray-400 text-sm">Client-side scripting language</p>
                 </div>
             </div>
