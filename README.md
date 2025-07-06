@@ -22,8 +22,8 @@ Website portfolio pribadi untuk menampilkan informasi tentang diri saya, skill, 
 
 - HTML5 & CSS3
 - JavaScript (Vanilla)
-- (Opsional) Tailwind CSS / Bootstrap
-- (Opsional) Laravel Blade untuk templating
+- Tailwind CSS / Bootstrap
+- Laravel Blade untuk templating
 - Git & GitHub
 
 ---
